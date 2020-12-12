@@ -1,0 +1,22 @@
+.gallery img{
+    width: 100;
+}
+
+h2{
+  font-family:sans-serif;
+ text-decoration: none;
+    background-color: crimson;
+    padding: 5px; 
+    
+}
+table{
+    font-family: sans-serif;
+    background: coloractive;
+    border-collapse: collapse;
+    border-width: 10px;
+    border-color: crimson;
+    column-rule-style: double;
+}
+tr{
+    font-family: sans-serif;
+}
